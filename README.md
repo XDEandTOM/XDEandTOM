@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @XDEandTOM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to
+你好👋！
+你知道吗？
+我提供免费的梯子！
+[free](https://hub.fastgit.org/XDEandTOM/free "free")
